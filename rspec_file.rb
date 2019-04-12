@@ -14,13 +14,13 @@ describe Parser do
  # don't work
 
 	it 'should be instance of Parser class' do
-       	expect(parser).to be_a(Parser) 
+		expect(parser).to be_a(Parser) 
 	end
 
 	describe '#top_headlines' do
-       it 'should save response to api_response var' do
-       		expect(parser.api_response).not_to be_nil
-       end
+			it 'should save response to api_response var' do
+			expect(parser.api_response).not_to be_nil
+		end
 	end
 
 	describe '#write_file' do
