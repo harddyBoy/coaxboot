@@ -4,224 +4,185 @@
   "articles": [
     {
       "source": {
+        "id": "mtv-news",
+        "name": "MTV News"
+      },
+      "author": "Crystal Bell",
+      "title": "BTS And Halsey Kick Off Summer Early With 'Boy With Luv' - MTV.com",
+      "description": "'Oh my my my oh my my my' prepare to have this song stuck in your head",
+      "url": "http://www.mtv.com/news/3120451/bts-halsey-boy-with-luv-video/",
+      "urlToImage": "https://mtv.mtvnimages.com/uri/mgid:ao:image:mtv.com:671751?quality=0.8&format=jpg&width=1440&height=810&.jpg",
+      "publishedAt": "2019-04-12T10:55:00Z",
+      "content": "Five years ago, BTS were a group of young adults in their teens and early twenties trying to make sense of the world around them. They channeled these confusing coming-of-age emotions and experiences like first love, disappointment, and heartbreak into their … [+2665 chars]"
+    },
+    {
+      "source": {
         "id": null,
-        "name": "Fortniteintel.com"
+        "name": "Investing.com"
+      },
+      "author": "Investing.com",
+      "title": "Stocks - Futures Rise on Chevron's $33 Billion Vote of Confidence - Investing.com",
+      "description": "Stocks - Futures Rise on Chevron's $33 Billion Vote of Confidence",
+      "url": "https://www.investing.com/news/stock-market-news/stocks--futures-rise-on-chevrons-33-billion-vote-of-confidence-1834550",
+      "urlToImage": "https://i-invdn-com.akamaized.net/news/LYNXMPED9Q177_L.jpg",
+      "publishedAt": "2019-04-12T10:47:00Z",
+      "content": "Investing.com -- U.S. stock markets are poised to open sharply higher Friday, as oil major Chevron 's (NYSE: CVX ) offer to buy Anadarko Petroleum (NYSE: APC ) for $33 billion signals confidence in one of economy’s strongest growth engines. Anadarko shares ar… [+1870 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "6abc.com"
       },
       "author": null,
-      "title": "Fortnite v8.30 Patch Notes – Reboot Vans, Buccaneer's Bounty Event, and more - FortniteINTEL",
-      "description": "The Fortnite v8.30 patch is now live on PC, PlayStation 4, and Xbox One. This update brings Reboot Vans, Buccaneer’s Bounty Event, and more! This patch includes the new Buccaneer’s Bounty Event. What are your thoughts? Read More: The Baller in Fortnite set to…",
-      "url": "https://fortniteintel.com/fortnite-v8-30-patch-notes-reboot-vans-buccaneers-bounty-event-and-more/15594/",
-      "urlToImage": "https://fortniteintel.com/wp-content/uploads/2019/04/Fortnite_patch-notes_v8-30_header-v8-30_08BR_Vehicle_RebootVan_NewsHeader-1920x1080-61f5cebdc7e8fecd8dd3a014ed8ade3ed0fc9d1e.jpg",
-      "publishedAt": "2019-04-10T09:03:00Z",
-      "content": "The Fortnite v8.30 patch is now live on PC, PlayStation 4, and Xbox One. This update brings Reboot Vans, Buccaneer’s Bounty Event, and more! This patch includes the new Buccaneer’s Bounty Event. What are your thoughts? Check out the full Patch Notes blog post… [+31963 chars]"
+      "title": "Father, son charged for allegedly selling diseased body parts - WPVI-TV",
+      "description": "Authorities claim the duo knowingly sold infected human body parts.",
+      "url": "https://6abc.com/father-son-charged-for-allegedly-selling-diseased-body-parts-/5244671/",
+      "urlToImage": "https://s.abcnews.com/images/US/surgical-scissors-gty-jpo-190411_hpMain_16x9_608.jpg?w=1600",
+      "publishedAt": "2019-04-12T10:23:13Z",
+      "content": "A father and son have been charged in Michigan for crimes related to allegedly selling diseased body parts through their company, the Biological Resource Center of Illinois (BRCI). BRCI provides human remains to medical professionals to use in training and re… [+1792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phonearena.com"
+      },
+      "author": "Adrian Diaconescu",
+      "title": "Facebook is exploring a change to its main app that users might actually enjoy - Phone Arena",
+      "description": "Facebook is apparently testing the prospective return of the separate messaging functionality to the main mobile app, but that doesn't necessarily mean the standalone Messenger app is going away an...",
+      "url": "https://www.phonearena.com/news/facebook-app-messenger-functionality-comeback-testing_id115244",
+      "urlToImage": "https://i-cdn.phonearena.com/images/article/115244-two_lead/Facebook-is-exploring-a-change-to-its-main-app-that-users-might-actually-enjoy.jpg",
+      "publishedAt": "2019-04-12T10:22:03Z",
+      "content": "All content, features, and design are Copyright 2001-2019 PhoneArena.com. All rights reserved. Reproduction in whole or in part or in any form or medium without written permission is prohibited!"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Sudan military says 'no ambition to hold the reins of power' - Aljazeera.com",
+      "description": "The head of political military council that overthrew President Bashir says new government will be run by civilians.",
+      "url": "https://www.aljazeera.com/news/2019/04/sudan-military-ambition-hold-reins-power-190412093906599.html",
+      "urlToImage": "https://www.aljazeera.com/mritems/Images/2019/4/12/1a85029bd4d04329b71b47b5e9700b62_18.jpg",
+      "publishedAt": "2019-04-12T10:12:00Z",
+      "content": "The head of Sudan's provisional military political council has said that the army has \"no ambition to hold the reins of power\", and stressed that \"we are ready to step down in as early as a month if a government is formed\". Addressing a news conference in the… [+1882 chars]"
     },
     {
       "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "Sinéad Baker",
-      "title": "Trump video with Batman music removed after Warner Bros claim: report - Business Insider",
-      "description": "The 2012 Christopher Nolan film had an original score by Hans Zimmer. Trump's video can no longer be played, with Twitter showing a copyright notice.",
-      "url": "https://www.businessinsider.com/trump-video-dark-knight-rises-music-removed-warner-bros-claim-report-2019-4",
-      "urlToImage": "https://amp.businessinsider.com/images/5c643c232628985589351f12-1920-960.jpg",
-      "publishedAt": "2019-04-10T08:16:56Z",
-      "content": "A video shared by President Donald Trump featuring music from Batman movie \"The Dark Knight Rises\" has been taken down, reportedly after a copyright claim from Warner Bros. BuzzFeed News reported that Warner Bros. Pictures filed a copyright infringement compl… [+1386 chars]"
+      "author": "Bill Bostock",
+      "title": "'How about paying your taxes?' A Walmart exec hit back at Jeff Bezos after he called out the company's low minimum wage - Business Insider",
+      "description": "Walmart's Dan Bartlett mocked Jeff Bezos for Amazon's low federal tax bill, after Bezos called for retailers like Walmart to raise wages.",
+      "url": "https://www.businessinsider.com/walmart-bezos-twitter-spat-over-wages-tax-2019-4",
+      "urlToImage": "https://amp.businessinsider.com/images/5cb05a4ed420603843575746-750-375.jpg",
+      "publishedAt": "2019-04-12T09:56:21Z",
+      "content": "A top Walmart executive has struck out at Amazon for its low tax contributions, after Jeff Bezos called out the retail giant for paying its workers a lower minimum wage than Amazon. On Thursday, Walmart's executive vice president of corporate affairs, Dan Bar… [+2670 chars]"
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
       },
-      "author": "Lukas Mikelionis",
-      "title": "Wreckage of missing Japan's F-35 fighter jet found, pilot remains missing - Fox News",
-      "description": "The wreckage of the Japanese F-35 stealth fighter jet that disappeared from radar over the Pacific Ocean during a night training flight was found in the sea on Wednesday.",
-      "url": "https://www.foxnews.com/world/wreckage-of-missing-japans-f-35-fighter-jet-found-pilot-remains-missing",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/04/800.jpeg",
-      "publishedAt": "2019-04-10T07:54:54Z",
-      "content": "The wreckage of the Japanese F-35 stealth fighter jet that disappeared from radar over the Pacific Ocean during a night training flight was found in the sea on Wednesday. The Japanese defense ministry said the male pilot, who’s in his 40s, remains missing. Th… [+1738 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "James Trew",
-      "title": "Amazon Kindle review (2019): The Paperwhite gets a run for its money - Engadget",
-      "description": "Amazon's cheapest Kindle should be a crowd-pleaser.",
-      "url": "https://www.engadget.com/2019/04/10/amazon-kindle-review-2019/",
-      "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-04%252Fccda7db0-5b16-11e9-9e7e-1340813886e4%26client%3Da1acac3e1b3290917d92%26signature%3D27857e976384d0b33d49725d50f0bf506d1c9279&client=amp-blogside-v2&signature=61718c667c53c6f3989bd3cfacd6d73193da1812",
-      "publishedAt": "2019-04-10T07:52:41Z",
-      "content": "The big news here is clearly that illuminated display. There was a time when even the premium Kindle meant reaching for the reading light (much as I loved my Kindle Keyboard, I also like reading at night). In fact, for about five years after the first one, al… [+7232 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cheatsheet.com"
-      },
-      "author": "stefan-preston",
-      "title": "Would a Home Birth for Meghan Markle Have Serious Risks? - The Cheat Sheet",
-      "description": "Meghan Markle could take a unique approach to bring Baby Sussex into the world, but how safe is it?",
-      "url": "https://www.cheatsheet.com/entertainment/would-a-home-birth-for-meghan-markle-have-serious-risks.html/",
-      "urlToImage": "https://www.cheatsheet.com/wp-content/uploads/2019/04/Meghan-Markle-21-1024x748.jpg",
-      "publishedAt": "2019-04-10T07:30:42Z",
-      "content": "Ever since Prince Harry and Meghan Markle announced they were expecting a baby, the world has been eager for any and all news about the new royal baby. Markle has attracted attention for everything from her chic pregnancy style to her all-natural approach to … [+3651 chars]"
-    },
-    {
-      "source": {
-        "id": "cnbc",
-        "name": "CNBC"
-      },
-      "author": "Holly Ellyatt",
-      "title": "Brexit summit: EU expected to grant UK extension with strings attached - CNBC",
-      "description": "European leaders will decide on Wednesday whether to grant the U.K. another extension to its departure from the bloc, due to take place on Friday April 12.",
-      "url": "https://www.cnbc.com/2019/04/10/brexit-delay-to-be-decided-at-eu-summit.html",
-      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/04/10/105842764-1554879222932gettyimages-1131832159.1910x1000.jpeg",
-      "publishedAt": "2019-04-10T06:56:37Z",
-      "content": "European leaders will decide on Wednesday whether to grant the U.K. another extension to its departure from the bloc, due to take place on Friday April 12. div &gt; div.group &gt; p:first-child\"&gt; The EU's 28 leaders, including British Prime Minister Theres… [+1519 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.org"
-      },
-      "author": "Marlowe Hood",
-      "title": "Scientists set to reveal first true image of black hole - Phys.org",
-      "description": "The world is finally about to see a black hole—not an artist's impression or a computer-generated likeness, but the real thing.",
-      "url": "https://phys.org/news/2019-04-scientists-reveal-true-image-black.html",
-      "urlToImage": "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/2019/artistsimpre.jpg",
-      "publishedAt": "2019-04-10T06:54:43Z",
-      "content": "The world is finally about to see a black holenot an artist's impression or a computer-generated likeness, but the real thing. At six press conferences across the globe scheduled for 1300 GMT (0900 ET) on Wednesday, scientists will unveil the first results fr… [+4137 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Espn.com"
-      },
-      "author": null,
-      "title": "Magic Johnson decided it's better to just be Magic Johnson - ESPN",
-      "description": "Jeanie Buss gave Magic Johnson the power to do whatever he wanted with the Lakers. He either didn't want it or couldn't handle it.",
-      "url": "http://www.espn.com/nba/story/_/id/26483921/magic-johnson-decided-better-just-magic-johnson",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0710%2Fr399173_1296x729_16%2D9.jpg",
-      "publishedAt": "2019-04-10T06:49:45Z",
-      "content": "LOS ANGELES -- Magic Johnson had the title he'd always wanted. He had the power to guide one of the most important franchises in sports, carte blanche. Anything he wanted to do as president of basketball operations for the Los Angeles Lakers, he had the power… [+6606 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "James Griffiths and Sugam Pokharel, CNN",
-      "title": "Tibetan spiritual leader Dalai Lama hospitalized with chest infection - CNN",
-      "description": "The Dalai Lama has been hospitalized with a chest infection, but is in a stable condition, his aides said Tuesday.",
-      "url": "https://www.cnn.com/2019/04/09/asia/dalai-lama-hospitalized-intl/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190329170741-03-tibet-dalai-lama-super-tease.jpg",
-      "publishedAt": "2019-04-10T05:53:00Z",
-      "content": "(CNN) The Dalai Lama has been hospitalized with a chest infection, but is in a stable condition, his aides said Tuesday. The 83-year-old Tibetan Buddhist monk had returned to his home of Dharamsala, in the Indian Himalayas, from a meeting with youth leaders i… [+1829 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seekingalpha.com"
-      },
-      "author": "Dividend Sensei",
-      "title": "2 Dividend Blue Chips Worth Owning And 1 I'll Avoid No Matter How Cheap It Gets - Seeking Alpha",
-      "description": "AT&T is a beloved high-yield dividend aristocrat and owned by many conservative income investors looking for safe and recession-resistant dividends. While it se",
-      "url": "https://seekingalpha.com/article/4253665-2-dividend-blue-chips-worth-owning-1-avoid-matter-cheap-gets",
-      "urlToImage": "https://static.seekingalpha.com/uploads/2019/4/9/47572571-1554809630027119.png",
-      "publishedAt": "2019-04-10T05:24:00Z",
-      "content": "(Source: imgflip ) AT&amp;T ( T ) is a beloved name for many high-yield investors and it's easy to understand why. The company's core wireless business is a recession-resistant cash cow that has helped this blue chip deliver generous, safe and rising income i… [+42127 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Julie  Zhu",
-      "title": "Exclusive: VW eyes buying big stake in China partner JAC, taps Goldman - sources - Reuters",
-      "description": "Volkswagen AG is exploring purchasing a big stake in its Chinese electric vehicle joint venture partner JAC Motors and has tapped Goldman Sachs as an adviser on the plan, people with direct knowledge of the matter said.",
-      "url": "https://www.reuters.com/article/us-volkswagen-m-a-jac-exclusive/exclusive-volkswagen-eyes-buying-big-stake-in-china-partner-jac-motor-taps-goldman-sources-idUSKCN1RM0F1",
-      "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20190410&t=2&i=1375439278&w=1200&r=LYNXNPEF390K6",
-      "publishedAt": "2019-04-10T05:11:00Z",
-      "content": "HONG KONG/FRANKFURT (Reuters) - Volkswagen AG is exploring purchasing a big stake in its Chinese electric vehicle joint venture partner JAC Motors and has tapped Goldman Sachs as an adviser on the plan, people with direct knowledge of the matter said. The mov… [+4320 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Espn.com"
-      },
-      "author": null,
-      "title": "Wade thankful as Miami run ends on perfect note - ESPN",
-      "description": "The Heat honored Dwyane Wade with a video tribute to his career that was narrated by the likes of LeBron James and Wade's oldest son, Zaire. Wade went out and scored 30 points in his final game in Miami.",
-      "url": "http://www.espn.com/nba/story/_/id/26482510/wade-thankful-miami-run-ends-perfect-note",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2019%2F0410%2Fr527008_1296x729_16%2D9.jpg",
-      "publishedAt": "2019-04-10T04:57:39Z",
-      "content": "MIAMI -- Dwyane Wade made sure his final game in \"Wade County\" -- the place he has spent the vast majority of the past 16 years and, in doing so, has become the most beloved athlete in this city's history -- was fitting of the occasion. After going through an… [+10177 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fstoppers.com"
-      },
-      "author": "Ryan Mense",
-      "title": "First Canon Rebel With 4K Video: New SL3 Is Smallest and Lightest EOS Camera - Fstoppers",
-      "description": "Today, Canon announced their latest addition to the famed EOS Rebel series of DSLR cameras. The new Canon EOS Rebel SL3 weighs under a pound and features 4K video recording, a DIGIC 8 processor, and Dual Pixel AF with Eye Detection AF.",
-      "url": "https://fstoppers.com/gear/first-canon-rebel-4k-video-new-sl3-smallest-and-lightest-eos-camera-356275",
-      "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2019/04/25185868a9e64cd79fbd680ae295e065.jpg",
-      "publishedAt": "2019-04-10T04:04:01Z",
-      "content": "Today, Canon announced their latest addition to the famed EOS Rebel series of DSLR cameras. The new Canon EOS Rebel SL3 weighs under a pound and features 4K video recording, a DIGIC 8 processor, and Dual Pixel AF with Eye Detection AF. The EOS Rebel SL3 measu… [+2556 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Npr.org"
-      },
-      "author": null,
-      "title": "Indivior, Maker of Suboxone, Accused Of Fraud In Drug Marketing - NPR",
-      "description": "British drug maker Indivior faces felony charges after allegedly trying to falsely convince doctors that its opioid products were safer than cheaper generic alternatives.",
-      "url": "https://www.npr.org/2019/04/10/711669778/opioid-maker-charged-with-fraud-in-marketing-drug-as-less-prone-to-abuse",
-      "urlToImage": "https://media.npr.org/assets/img/2019/04/10/gettyimages-1134203790_wide-9512b6b3835b5e7be5a6523630a1d162c1f5117c.jpg?s=1400",
-      "publishedAt": "2019-04-10T04:04:00Z",
-      "content": "Federal prosecutors late Tuesday charged British drug maker Indivior with felony fraud and conspiracy for its marketing of opioid products including Suboxone. The company allegedly created a \"nationwide scheme\" in the U.S. designed to convince doctors and gov… [+3416 chars]"
+      "author": "Eytan Halon",
+      "title": "Despite crash, SpaceIL to receive $1 million Moonshot Award - The Jerusalem Post",
+      "description": "Founded in 1995, California-headquartered XPRIZE designs global competitions to incentivize the development of technological breakthroughs that accelerate humanity toward a better future.",
+      "url": "https://www.jpost.com/Jpost-Tech/Despite-crash-SpaceIL-to-receive-1-million-Moonshot-Award-586644",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/438776",
+      "publishedAt": "2019-04-12T09:34:22Z",
+      "content": "X Dear Reader, As you can imagine, more people are reading The Jerusalem Post than ever before. Nevertheless, traditional business models are no longer sustainable and high-quality publications, like ours, are being forced to look for new ways to keep going. … [+5196 chars]"
     },
     {
       "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
-      "author": "Phil Helsel",
-      "title": "Arizona mom, daughter confess to 2017 murder after body found in house next door, police say - NBC News",
-      "description": "Police in Prescott, Arizona, said a woman and her daughter have been arrested after the dead body of a grandmother was found, and they confessed in her 2017 murder and to cashing her checks.",
-      "url": "https://www.nbcnews.com/news/us-news/arizona-mom-daughter-confess-killing-matriarch-cashing-her-checks-years-n992826",
-      "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2019_15/2816201/190409-tara-aven-nbc-news-mugshot-template-ac-1052p_94dfaf0984987643064b36ecc7c9f202.nbcnews-fp-1200-630.JPG",
-      "publishedAt": "2019-04-10T03:59:00Z",
-      "content": "Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. SUBSCRIBE April 10, 2019, 3:59 AM GMT / Updated April 10, 2019, 5:10 AM GMT After police discovered the body of a woman in a home on Tuesday, an Arizon… [+1822 chars]"
+      "author": "Richard Engel, Kennett Werner",
+      "title": "Steve Bannon and U.S. ultra-conservatives take aim at Pope Francis - NBC News",
+      "description": "Since becoming pope in 2013, Francis has expressed a consistent message on the type of “America First” nationalism championed by Steve Bannon.",
+      "url": "https://www.nbcnews.com/news/world/steve-bannon-u-s-ultra-conservatives-take-aim-pope-francis-n991411",
+      "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2019_15/2818126/190411-steve-bannon-rome-cs-927a_9cc7016a5589e62dc9c82cc06b14c384.nbcnews-fp-1200-630.jpg",
+      "publishedAt": "2019-04-12T09:01:00Z",
+      "content": "Breaking News Emails Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. SUBSCRIBE April 12, 2019, 9:01 AM GMT By Richard Engel and Kennett Werner VATICAN CITY Strolling through St. Peters Square, the he… [+6571 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Washingtonexaminer.com"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "https://www.washingtonexaminer.com/author/claude-thompson",
-      "title": "Attorney General Barr puts team in place to investigate FBI probe of Trump - Washington Examiner",
-      "description": "Attorney General William Barr has established an investigative team that he intends to use to look into the origins of an FBI counter-intelligence investigation into Trump's 2016 presidential campaign.",
-      "url": "https://www.washingtonexaminer.com/news/attorney-general-barr-puts-team-in-place-to-investigate-fbi-probe-of-trump",
-      "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/f1c7e4e/2147483647/strip/true/crop/2290x1202+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fa1%2Fc1%2Febde88514a158f65d2c788ac17fb%2Fap-19066570182607.jpg",
-      "publishedAt": "2019-04-10T02:32:00Z",
-      "content": "A ttorney General William Barr has established an investigative team that he intends to use to look into the origins of an FBI counter-intelligence investigation into Trump's 2016 presidential campaign. According to Fox News, Barr has settled on the Justice D… [+1461 chars]"
+      "author": "Stephanie Nolasco",
+      "title": "Meghan Markle is ‘not a yes person’ and ‘speaks her mind’ like an American woman, says Princess Diana’s butler - Fox News",
+      "description": "When it comes to the alleged royal feud between Duchess of Sussex Meghan Markle and Duchess of Cambridge Kate Middleton, Princess Diana’s former butler isn’t buying it.",
+      "url": "https://www.foxnews.com/entertainment/meghan-markle-is-not-a-yes-person-and-speaks-her-mind-like-an-american-woman-says-princess-dianas-butler",
+      "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2019/03/31/694940094001_6020974857001_6020973486001-vs.jpg",
+      "publishedAt": "2019-04-12T09:00:39Z",
+      "content": "When it comes to the rumored royal feud between Duchess of Sussex Meghan Markle and Duchess of Cambridge Kate Middleton, Princess Diana’s former butler isn’t buying it. “They are different women with different roles from different cultures,” Paul Burrell told… [+6860 chars]"
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Kristin Lam",
-      "title": "A 3-year-old disabled his family's iPad for 25 million minutes. His dad went to Twitter for help - USA TODAY",
-      "description": "A 3-year-old boy disabled his family's iPad for 25 million minutes this weekend after repeatedly trying to unlock the tablet.",
-      "url": "https://www.usatoday.com/story/news/nation/2019/04/09/toddler-locks-ipad-25-million-minutes/3417729002/",
-      "urlToImage": "https://www.gannett-cdn.com/-mm-/d49187f34f76296976c78e0e390f2dee2abed5b0/c=36-0-607-321/local/-/media/2019/04/01/USATODAY/usatsports/Reviewed.com-RvEW-22581-kids-tablets-hero.jpg?width=3200&height=1680&fit=crop",
-      "publishedAt": "2019-04-10T01:58:00Z",
-      "content": "Apple unveiled two new IPads today in Brooklyn, NY USA TODAY 'Toddler-iPad-lock-out': 3-year-old boy disables tablet for 25 million minutes A 3-year-old boy tried to unlock his family's iPad this weekend. He ended up disabling it for nearly 50 years. The todd… [+1964 chars]"
+      "author": null,
+      "title": "He Has Driven for Uber Since 2012. He Makes About $40,000 a Year. - The New York Times",
+      "description": "Peter Ashlock has completed 25,000 trips for Uber. As insiders cash in with what may be a $100 billion public offering, he’s on the road to nowhere.",
+      "url": "https://www.nytimes.com/2019/04/12/technology/uber-driver-ipo.html",
+      "urlToImage": "https://static01.nyt.com/images/2019/04/08/business/00uberdrivers4/00uberdrivers4-facebookJumbo.jpg",
+      "publishedAt": "2019-04-12T09:00:12Z",
+      "content": "On a recent Wednesday, Mr. Ashlock packed a corned beef sandwich, carrots, some C4 energy powder mixed with water, and a Kirkland Extra Strength Energy Shot. At 4:23 p.m., he set off for San Francisco, where the rides are. He was on a Quest. This is Uber-spea… [+1348 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Howard Kurtz",
+      "title": "Julian Assange, arrested for damaging leaks, claims to be a journalist - Fox News",
+      "description": "The Wikileaks founder is using journalism as a fig leaf for his reckless conduct.",
+      "url": "https://www.foxnews.com/politics/julian-assange-arrested-for-damaging-leaks-claims-to-be-a-journalist",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/04/ContentBroker_contentid-ab7c8d80d22049149b0c00f1e33bbb0c.png",
+      "publishedAt": "2019-04-12T08:28:52Z",
+      "content": "The images were stunning as we saw Julian Assange led away from his sanctuary of nearly seven years, looking haggard and disoriented with a Santa Claus beard. And moments after British police took him from the Ecuadorean embassy, the media debate erupted. Is … [+3502 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Weizhen Tan",
+      "title": "China's March trade surplus soars past expectations, Beijing data show - CNBC",
+      "description": "China's exports for the month of March came in much higher than expected, while its imports came in much lower than expected, according to customs data released on Friday.",
+      "url": "https://www.cnbc.com/2019/04/12/china-reports-march-trade-data-on-exports-and-imports.html",
+      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/04/30/102634533-114303784.1910x1000.jpg",
+      "publishedAt": "2019-04-12T08:02:03Z",
+      "content": "China's exports for the month of March came in much higher than expected, while its imports came in much lower than expected, according to customs data released on Friday. div &gt; div.group &gt; p:first-child\"&gt; Dollar-denominated exports rose 14.2 percent… [+2733 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": null,
+      "title": "Pakistan Market Bomb Blast Kills at Least 16 People in Quetta - The New York Times",
+      "description": "The bombing in the southwestern city of Quetta took the lives of eight Hazaras, a Shiite Muslim group that has repeatedly been the target of Sunni extremists.",
+      "url": "https://www.nytimes.com/2019/04/12/world/asia/pakistan-bombing-market.html",
+      "urlToImage": "https://static01.nyt.com/images/2019/04/12/world/12pakistan-1/12pakistan-1-facebookJumbo.jpg",
+      "publishedAt": "2019-04-12T07:30:00Z",
+      "content": "A senior police official said the bomb went off in a sack of potatoes, and that the victims included shopkeepers and customers at the vegetable market. One paramilitary soldier was also killed in the blast. The police ruled out a suicide bombing and said they… [+797 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Mariella Moon",
+      "title": "Apple now asks you to confirm App Store subscriptions - Engadget",
+      "description": "You won't accidentally pay for an iOS app subscription anymore.",
+      "url": "https://www.engadget.com/2019/04/12/apple-app-store-subscriptions-confirmation/",
+      "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4179%252C2610%252C0%252C170%26quality%3D85%26format%3Djpg%26resize%3D1600%252C999%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-04%252Fa01b2ec0-5cdb-11e9-9bcb-b37ba742390e%26client%3Da1acac3e1b3290917d92%26signature%3D4ec504438a301f4d9615878d82959b011a96c0ff&client=amp-blogside-v2&signature=ad2c8cdc2a006a79101712638e55151755e1ca20",
+      "publishedAt": "2019-04-12T06:45:31Z",
+      "content": "App developer David Barnard first noticed the change, and 9to5Mac has confirmed that it's already live. The feature apparently started rolling out last week. Whoa! Apple added an additional confirmation step for subscriptions. This new alert comes after you c… [+529 chars]"
     },
     {
       "source": {
@@ -229,38 +190,77 @@
         "name": "Ajc.com"
       },
       "author": "Michael Cunningham",
-      "title": "I want Tiger to win the Masters because it would be so much fun - Atlanta Journal Constitution",
-      "description": "I want Tiger Woods to win the 2019 Masters.",
-      "url": "https://www.ajc.com/blog/mike-check/want-tiger-win-the-masters-because-would-much-fun/w5EKQeQBfhVqP6SNncqwtI/",
-      "urlToImage": "https://www.ajc.com/rf/image_large/Wires/w2/USAT_Sports/2019/04/09/Images/3411307002_cbd8b3e3-9ed9-48b9-a8fd-07b393a4e7db-USP_PGA__Masters_Tournament_-_Practice_Round.JPG",
-      "publishedAt": "2019-04-10T01:41:08Z",
-      "content": "I’ve been thinking about it since I saw what happened at East Lake in September. Thousands of frenzied fans stormed the final fairway to surround Woods as he wrapped up the Tour Championship. That scene showed that, even after all these years, no other golfer… [+4436 chars]"
+      "title": "Tiger Woods gives the people what they came to see at the Masters - Atlanta Journal Constitution",
+      "description": "There came a point Thursday afternoon when I decided it was time to chase Tiger at Augusta National.",
+      "url": "https://www.ajc.com/blog/mike-check/tiger-woods-gives-the-people-what-they-came-see-the-masters/OqdWUkpfZvSRibyt5TargM/",
+      "urlToImage": "https://www.ajc.com/rf/image_large/Pub/p10/AJC/2019/04/11/Images/041219%20masters%20photo%20jg43_20190411204754.JPG",
+      "publishedAt": "2019-04-12T05:37:51Z",
+      "content": "The next leaderboard I saw confirmed it: Tiger Woods had birdied No. 13 to get to 2-under par, one stroke behind the leaders at the time. There was a buzz among the gallery as we gathered around the 14th green, waiting for Woods. It turned into concern when h… [+4475 chars]"
     },
     {
       "source": {
-        "id": "cnbc",
-        "name": "CNBC"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Reuters",
-      "title": "Uber plans to sell around $10 billion worth of stock in IPO - CNBC",
-      "description": "Uber Technologies Inc has decided it will seek to sell around $10 billion worth of stock in its initial public offering, and will make public the registration of this offering on Thursday, people familiar with the matter said on Tuesday.",
-      "url": "https://www.cnbc.com/2019/04/10/uber-plans-to-sell-around-10-billion-worth-of-stock-in-ipo.html",
-      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/10/30/105539694-1540907611493gettyimages-986142902.1910x1000.jpeg",
-      "publishedAt": "2019-04-10T01:31:31Z",
-      "content": "Uber plans to make its IPO registration with the U.S. Securities and Exchange Commission publicly available on Thursday, and will kick of its investor roadshow during the week of April 29, putting it on track to price its IPO and begin trading on the New York… [+1037 chars]"
+      "author": "Curt Popejoy",
+      "title": "2019 NFL draft: Steelers updated 5-round mock draft - Steelers Wire",
+      "description": "We’ve expanded our Steelers mock draft update to five rounds.",
+      "url": "https://steelerswire.usatoday.com/2019/04/12/2019-nfl-draft-steelers-updated-5-round-mock-draft/",
+      "urlToImage": "https://usatsteelerswire.files.wordpress.com/2019/04/usatsi_11637075.jpg?w=1024&h=576&crop=1",
+      "publishedAt": "2019-04-12T04:14:54Z",
+      "content": "Kirby Lee-USA TODAY Sports The 2019 NFL draft is only two weeks away and we decided it was time to update our mock draft. This time around we’ve added two round and went a full five rounds this time for the Pittsburgh Steelers. This time around we also decide… [+509 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Youtube.com"
+        "name": "Yahoo.com"
       },
       "author": null,
-      "title": "NASA Administrator Bridenstine Speaks at 35th Space Symposium - NASA",
-      "description": null,
-      "url": "https://www.youtube.com/watch?v=FdbiIbaLj3o",
-      "urlToImage": null,
-      "publishedAt": "2019-04-10T01:19:38Z",
-      "content": "[[getSimpleString(data.title)]] [[getSimpleString(data.description)]] [[getSimpleString(data.videoCountText)]]"
+      "title": "Michigan State basketball rape accuser comes forward: 'I know that there are others' - Yahoo Sports",
+      "description": "Bailey Kowalski filed a Title IX lawsuit last year alleging she was raped in 2015 by three Michigan State basketball players.",
+      "url": "https://sports.yahoo.com/michigan-state-basketball-rape-accuser-comes-forward-040326702.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/2XNnC1OsJVPz.kcuHNr6dA--~B/aD0zMDI3O3c9NDY5NTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://img.huffingtonpost.com/asset/5cb00d7b2a0000e4034f8cfa.jpeg",
+      "publishedAt": "2019-04-12T04:03:00Z",
+      "content": "A Michigan State student has come forward after alleging in a Title IX lawsuit last year that three unnamed Michigan State basketball players raped her and that the schools counseling center discouraged her from reporting it, according to ESPN. Bailey Kowalsk… [+2513 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bgr.com"
+      },
+      "author": "Mike Wehner",
+      "title": "Dead alligator is devoured by giant ‘pill bugs’ on the sea floor in creepy video - BGR",
+      "description": "When an animal dies in a forest or field its body usually becomes food for scavengers large and small. Sometimes that includes larger animals like vultures or wild dogs, but it’s usually inse…",
+      "url": "https://bgr.com/2019/04/11/dead-alligator-sea-floor-isopod-scavengers-video/",
+      "urlToImage": "https://boygeniusreport.files.wordpress.com/2019/04/capture-10.jpg?quality=98&strip=all",
+      "publishedAt": "2019-04-12T03:07:00Z",
+      "content": "When an animal dies in a forest or field its body usually becomes food for scavengers large and small. Sometimes that includes larger animals like vultures or wild dogs, but it’s usually insects that are left to clean up the last bits of tissue. The bottom of… [+1656 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Evan Perez, CNN Justice Correspondent",
+      "title": "Trump pressured Nielsen to release detained immigrants into so-called sanctuary cities - CNN",
+      "description": "The Trump administration pressured the Department of Homeland Security to release immigrants detained at the southern border into so-called sanctuary cities in part to retaliate against Democrats who oppose President Donald Trump's plans for a border wall, a …",
+      "url": "https://www.cnn.com/2019/04/11/politics/immigrant-detainees-sanctuary-cities/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/181113072103-03-kirstjen-nielsen-lead-image-super-tease.jpg",
+      "publishedAt": "2019-04-12T03:04:00Z",
+      "content": "Washington (CNN) The Trump administration pressured the Department of Homeland Security to release immigrants detained at the southern border into so-called sanctuary cities in part to retaliate against Democrats who oppose President Donald Trump's plans for … [+2681 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bbc.com"
+      },
+      "author": "BBC News",
+      "title": "SpaceX nails triple booster landing after satellite delivery - BBC News",
+      "description": "Elon Musk's Falcon Heavy launched a satellite into orbit for a Saudi Arabian company.",
+      "url": "https://www.bbc.com/news/av/science-environment-47903788/spacex-nails-triple-booster-landing-after-satellite-delivery",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/04C6/production/_106422210_p0768p2x.jpg",
+      "publishedAt": "2019-04-12T02:42:43Z",
+      "content": null
     }
   ]
 }
